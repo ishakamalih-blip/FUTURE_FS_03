@@ -1,16 +1,139 @@
-# React + Vite
+# FUTURE_FS_03 — Nova Interiors
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive interior design studio website created as **Task 3** for the Future Interns Full Stack Web Development Internship Program.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Coming soon — Render deployment.
 
-## React Compiler
+## 📌 Project Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Nova Interiors** is a premium interior design studio website created to showcase interior design projects, services, studio information, design process, and contact details.
 
-## Expanding the Oxlint configuration
+The website uses an editorial-inspired visual style with large typography, high-quality interior imagery, clean layouts, and responsive design.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## ✨ Features
+
+- Responsive navigation
+- Modern editorial-style hero section
+- Interior project showcase
+- Featured project section
+- About the studio section
+- Interior design services
+- Design process section
+- Contact section
+- Email inquiry button
+- Mobile responsive layout
+- Smooth section navigation
+- Premium typography and visual hierarchy
+
+## 🏠 Business Concept
+
+### Interior Design Studio
+
+Nova Interiors focuses on creating refined and functional spaces.
+
+### Services
+
+- Interior Design
+- Space Planning
+- 3D Visualization
+- Turnkey Execution
+
+## 🛠️ Technologies Used
+
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Lucide React
+- Google Fonts
+- Unsplash Images
+
+## 📂 Project Structure
+
+```text
+FUTURE_FS_03/
+│
+├── public/
+│
+├── src/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── main.jsx
+│   └── index.css
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── README.md
+└── ...
+🎨 Design
+
+The website follows a premium editorial interior-design aesthetic using:
+
+Cream and dark backgrounds
+Gold accent colors
+Large serif typography
+Interior photography
+Minimal navigation
+Clean spacing
+Responsive layouts
+📱 Responsive Design
+
+The website is designed for:
+
+Desktop
+Laptop
+Tablet
+Mobile devices
+📸 Screenshots
+
+Project screenshots will be added to the repository in the:
+
+screenshots/
+
+folder.
+
+🚀 Run Locally
+
+Clone the repository:
+
+git clone https://github.com/ishakamalih-blip/FUTURE_FS_03.git
+
+Open the project:
+
+cd FUTURE_FS_03
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+The application will run using Vite.
+
+🌍 Deployment
+
+The project will be deployed using Render.
+
+Build Command
+npm install && npm run build
+Start Command
+npm run preview -- --host 0.0.0.0 --port $PORT
+🎯 Internship Task
+
+This project was developed as Task 3 of the Future Interns Full Stack Web Development Internship Program.
+
+👩‍💻 Developer
+
+Isha Kamalia
+
+B.Tech Computer Engineering
+
+📄 License
+
+This project was created for educational, internship, and portfolio purposes.
